@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pet"
+        android:icon="@mipmap/icon_cat"
+        android:title="监控" />
+    <item
+        android:id="@+id/lucky"
+        android:icon="@mipmap/icon_star"
+        android:title="奇遇" />
+    <item
+        android:id="@+id/exam"
+        android:icon="@mipmap/icon_exam"
+        android:title="科举" />
+</menu>
